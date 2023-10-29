@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Azizi Hamza, 22 years old
 - 👀 I’m an upcoming Software Engineer
-- 🌱 I’m currently learning in ALX Africa, Software Engineering Program
+- 🌱 I’m currently enrolled in ALX Africa, Software Engineering Program
 - 📫 How to reach me: instagram @eyzee00 ; Twitter: @HamzaAzizi11 ;
 
 <!---
